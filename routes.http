@@ -1,0 +1,11 @@
+// arquivo criado para testar as rotas. Usar extensão rest Client
+
+GET http://localhost:5000/produtos
+
+###
+
+POST http://localhost:5000/produto
+
+###
+
+GET http://localhost:5000/produto/61a0eeba-5ebd-4cec-9cb6-78ff5eaa0ef9
